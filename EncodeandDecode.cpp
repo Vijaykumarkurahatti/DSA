@@ -1,4 +1,4 @@
-/*
+
 Encode
 - Take result string
 - for loop on strings
@@ -19,4 +19,4 @@ while on i until string size
 
 return result
 
-*/
+
