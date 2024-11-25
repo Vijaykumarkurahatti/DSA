@@ -1,4 +1,4 @@
-/*
+
 -Take one set ( add all nums)
 -take longest a zero initially
 -for(s)
@@ -8,4 +8,4 @@
     
 
 
-*/
+
