@@ -1,4 +1,4 @@
-/*
+
 - take n as numbers size
 - take unorder map m
 - for loop on i 0 to n
@@ -19,4 +19,4 @@ for loop on i =n to > = to 0 i--
   
 
 
-*/
+
