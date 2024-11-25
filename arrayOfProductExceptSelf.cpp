@@ -1,4 +1,4 @@
-/*
+
 --    take n nums size
 --    take result vector int  with n size and all 1
 --     take prefix as 1
@@ -16,4 +16,4 @@
         
 
 
-*/
+
