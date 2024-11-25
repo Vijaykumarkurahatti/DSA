@@ -1,4 +1,4 @@
-/*
+
 - take n num size
 - take un map m
 - for loop  i: 0 to n 
@@ -12,4 +12,4 @@ return {}
       
 
 
-*/
+
