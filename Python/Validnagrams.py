@@ -3,7 +3,7 @@ class Solution(object):
     if(len(s) != len(t):
       return False
     countS,countT = {},{}
-    for i in s[i]:
+    for i in range(len(s)):
       countS(s[i]) = 1 + countS.get(s[i],0)
       countT(s[j]) = 1 + countT.get(s[j],0)
     return countS == countT
